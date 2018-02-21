@@ -1,0 +1,30 @@
+[14-Jan-2018 20:01:52 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/restclient/index.php
+[14-Jan-2018 20:01:54 Europe/Berlin] ...... restclient: POST day = 14 to http://localhost/cs637/aakash94/proj2/proj2_server/rest/day/
+[14-Jan-2018 20:01:55 Europe/Berlin] ...... restclient: GET day
+[14-Jan-2018 20:01:55 Europe/Berlin] ...... restclient: GET product
+[14-Jan-2018 20:01:55 Europe/Berlin] ...... restclient: POST product
+[14-Jan-2018 20:10:01 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[14-Jan-2018 20:45:28 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/day/index.php
+[14-Jan-2018 20:45:46 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/restclient/index.php
+[14-Jan-2018 20:45:46 Europe/Berlin] ...... restclient: POST day = 14 to http://localhost/cs637/aakash94/proj2/proj2_server/rest/day/
+[14-Jan-2018 20:45:46 Europe/Berlin] ...... restclient: GET day
+[14-Jan-2018 20:45:46 Europe/Berlin] ...... restclient: GET product
+[14-Jan-2018 20:45:46 Europe/Berlin] ...... restclient: POST product
+[17-Jan-2018 14:54:28 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[17-Jan-2018 14:54:40 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/
+[17-Jan-2018 14:54:43 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/topping/
+[17-Jan-2018 14:54:45 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[17-Jan-2018 14:54:47 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/
+[17-Jan-2018 14:54:48 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/size/
+[17-Jan-2018 14:54:50 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[17-Jan-2018 14:54:52 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/
+[17-Jan-2018 14:54:53 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/day/
+[17-Jan-2018 14:54:59 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[17-Jan-2018 14:55:00 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/
+[17-Jan-2018 14:55:03 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/order/
+[14-Feb-2018 15:25:44 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[14-Feb-2018 15:25:48 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/
+[14-Feb-2018 15:25:51 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/day/
+[14-Feb-2018 15:25:52 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/
+[14-Feb-2018 15:25:53 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/
+[14-Feb-2018 15:25:55 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/pizza2/admin/topping/

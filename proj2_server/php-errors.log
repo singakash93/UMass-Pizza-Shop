@@ -1,0 +1,22 @@
+[04-May-2017 01:27:45 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/restclient/index.php
+[04-May-2017 01:36:47 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[05-May-2017 17:35:34 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[05-May-2017 17:46:07 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 01:00:39 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/restclient/index.php
+[06-May-2017 01:00:39 Europe/Berlin] error in client_post_dayCurl error: The requested URL returned error: 500 Internal Server Error
+[06-May-2017 01:00:39 Europe/Berlin] ......starting client: GET day
+[06-May-2017 01:00:39 Europe/Berlin] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[06-May-2017 04:16:18 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 04:16:42 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 04:19:08 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 04:20:46 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 04:24:38 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 04:28:53 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 23:21:16 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[06-May-2017 23:49:18 UTC] PHP Notice:  Undefined index: REQUEST_URI in /Applications/XAMPP/xamppfiles/htdocs/cs637/ammu94/proj2_setup/proj2_server/util/main.php on line 29
+[06-May-2017 23:49:18 UTC] =====Starting request: 
+[06-May-2017 23:49:18 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Applications/XAMPP/xamppfiles/htdocs/cs637/ammu94/proj2_setup/proj2_server/view/footer.php on line 4
+[07-May-2017 02:10:53 Europe/Berlin] =====Starting request: /cs637/ammu94/proj2_setup/proj2_server/
+[07-May-2017 17:37:42 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2_setup/proj2_server/
+[09-May-2017 00:17:51 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2_setup/proj2_server/
+[14-Jan-2018 20:10:26 Europe/Berlin] =====Starting request: /cs637/aakash94/proj2/proj2_server/
